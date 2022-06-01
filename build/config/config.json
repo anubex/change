@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xEA9b0D57F2F804FeDab8776697BE839c3203816A",
+  "SCAN_LINK": "https://polygonscan.com/address/0xea9b0d57f2f804fedab8776697be839c3203816a",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Akizack",
+  "SYMBOL": "ZACK",
+  "MAX_SUPPLY": 6400,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/akizack",
+  "SHOW_BACKGROUND": true
+}
